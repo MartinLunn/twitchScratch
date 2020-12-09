@@ -1,0 +1,60 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "node backend -c \"oli9my3pxhsezeacluud183xua0q80\" -s \"KLT7PENilkefywyluOuJ3WIIxPU9Lx+OLEaREAWFAbg=\"",
+  "backendFolderName": "extension-getting-started\\services",
+  "certificateExceptions": [],
+  "extensionViews": [],
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "Pink_Munn",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "",
+    "iconUrls": {},
+    "id": "oli9my3pxhsezeacluud183xua0q80",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "PinkMunnScratch",
+    "panelHeight": 300,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "",
+    "supportEmail": "martin.lunn@hotmail.com",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "https://localhost:8080/panel.html",
+    "viewerUrls": {
+      "panel": "https://localhost:8080/panel.html"
+    },
+    "views": {
+      "panel": {
+        "viewerUrl": "https://localhost:8080/panel.html",
+        "height": 300,
+        "canLinkExternalContent": false
+      },
+      "config": {
+        "viewerUrl": "https://localhost:8080/config.html",
+        "canLinkExternalContent": false
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "frontendCommand": "",
+  "frontendFolderName": "extension-getting-started\\public",
+  "name": "PinkMunnScratch",
+  "usingRandomFrontendHostingPort": false,
+  "version": 3
+}
